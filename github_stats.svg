@@ -17,7 +17,7 @@
         }
     
             :root {
-                     --animation-duration: 7279ms;
+                --animation-duration: 14558ms;
             }
 
             @keyframes roll {
@@ -63,7 +63,7 @@
             }
 
             #screen_view {
-                animation-duration: 7279ms;
+                animation-duration: 14558ms;
                 animation-iteration-count:infinite;
                 animation-name:roll;
                 animation-timing-function: steps(1,end);
@@ -273,7 +273,7 @@
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Commits       </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 974        </text>
+                <text x="136" textLength="96" class="green"> 979        </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g29">
