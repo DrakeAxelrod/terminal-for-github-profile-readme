@@ -64,7 +64,8 @@
             }
 
             #screen_view {
-                animation-duration: 14558ms;
+<!--                 animation-duration: 14558ms; -->
+                animation-duration: 3639ms;
                 animation-iteration-count:infinite;
                 animation-name:roll;
                 animation-timing-function: steps(1,end);
